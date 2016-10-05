@@ -1,0 +1,2 @@
+Create Database named "e-learning".
+To fill it with data, just run: localhost/E-learning/db/CreateDB.php
