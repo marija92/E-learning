@@ -9,7 +9,7 @@ $mysql_username = 'root';
 // MySQL password
 $mysql_password = '';
 // Database name
-$mysql_database = 'e-learning';
+$mysql_database = 'elearning';
 
 // Connect to MySQL server
 $linkDB=mysqli_connect($mysql_host, $mysql_username, $mysql_password) or die('Error connecting to MySQL server: ' . mysql_error());
